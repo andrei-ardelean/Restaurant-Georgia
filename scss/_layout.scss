@@ -187,7 +187,6 @@
     flex-direction: column;
     align-items: center;
     padding: 0 100px;
-    box-sizing: border-box;
 
     @media (max-width: 1300px) {
       padding: 0 50px;
@@ -264,8 +263,8 @@
   }
 
   .social-media {
-    display: flex;
     width: 300px;
+    display: flex;
     justify-content: space-between;
     margin-bottom: 70px;
 

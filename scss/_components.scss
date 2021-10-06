@@ -193,7 +193,7 @@
     left: -100%;
     background-color: rgba($color-primary, 0.6);
     color: $color-white;
-    z-index: 10;
+    z-index: 100;
     @include flexLayout;
     flex-direction: column;
     @extend %fullSpace;
